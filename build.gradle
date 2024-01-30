@@ -52,9 +52,4 @@ jacocoTestReport {
         html.required = true
     }
 }
-    
 
-
-// TODO Specify Jacoco version
-
-// TODO Configure Jacoco
